@@ -1268,6 +1268,10 @@ audio {
 .cake-cover {
 	margin-top: 50px;
 }
+.cake {
+	margin-top: 250px;
+	display: none;
+}
 .message {
 	margin-top: 300px;
 	display: none;
