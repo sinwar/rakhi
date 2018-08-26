@@ -1084,6 +1084,7 @@ audio {
 	height: 183px;
 	background-repeat: no-repeat no-repeat;
 	background-size: 100px 183px;
+	margin-left: 20px;
 }
 .balloons h2 {
 	text-transform: uppercase;
@@ -1260,7 +1261,7 @@ audio {
 	bottom: 0;
 	padding:10px 0px 10px 0px;
 }
-#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story {
+#play, #bannar_coming, #balloons_flying,#cake_fadein,#wish_message,#story {
 	display: none;
 }
 
@@ -1268,7 +1269,7 @@ audio {
 	margin-top: 50px;
 }
 .message {
-	margin-top: 200px;
+	margin-top: 300px;
 	display: none;
 }
 .message p {
